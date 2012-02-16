@@ -1,4 +1,4 @@
-# [ClientBoilerPlate]
+# ClientBoilerPlate
 
 ClientBoilerPlate is a combination of requirejs, jquery, underscore, backbone, bootstrap, less, modernizr frameworks. It allows to quickly start a web app client in a MVC pattern offered by Backbone.  
 
